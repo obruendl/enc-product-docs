@@ -12,3 +12,4 @@
 # Rules
 
 * For information about FPGA device resources, always refer to the vendor materials (folder vendor)
+* Always point out why you choose a certain FPGA/SoC device family and why not the other ones (the device-family selection is a critical constraint to the SOM selection)
