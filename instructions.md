@@ -20,7 +20,8 @@
    - Application notes, white papers, etc. (exclude materials from other device vendors than the one selected)
    - Papers, blog-posts, etc. (one specific blog to check: micro zed chronicals from adam taylor)
 8. Document all candidates with the "why it fits" and "why it could not fit"
-
+9. Document all critical points that must be checked in detail to prove the outcome
+10. Create an executive summary (200 words or less)
 
 # Rules
 
@@ -31,7 +32,10 @@
 
 The report shall be ordered as follows
 
-1. Device selection
-2. SoM selection 
-3. Analysis of critical features
-4. Relevant supporting materials
+1. Executive summary
+2. Device selection
+3. SoM selection 
+4. Analysis of critical features
+5. Relevant supporting materials
+
+
