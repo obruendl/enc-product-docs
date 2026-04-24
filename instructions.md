@@ -14,6 +14,7 @@
    - Is the interface on the processing system side?
    - Is there a IP available from the device vendor (if so, is it free/bundled with the tool or a separate paid license)?
    - Is there 3rd party IP available? (this option only is required if there is no IP from the device vendor)
+   - Do not rely on prior knowledge for license terms, as these change over time. Always check the latest state on vendor websites.
    - Document all relevant options and suggest the one you see as best fit
    - For IP questions, you have to search online.
 7. Find relevant supporting materials online
